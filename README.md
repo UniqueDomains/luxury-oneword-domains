@@ -14,6 +14,8 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 > **Important:** this repository is a **public 9,562-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **5,622,452 domains** on the canonical page below.
 
+**Public extract:** 9,562 rows · **Live catalog:** 5,622,452 domains
+
 **Last updated:** 2026-04-09  
 **Canonical page:** `https://unique.domains/domains/tld/luxury`  
 **Best for:** founders, investors, studios
@@ -21,14 +23,25 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/luxury?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_open_search"><b>Open live .LUXURY search</b></a> ·
-  <a href="https://unique.domains/domains/tld/luxury?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_create_radar"><b>Create .LUXURY Radar</b></a> ·
-  <a href="https://unique.domains/domains/tld/luxury?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_start_project"><b>Start a naming Project</b></a> ·
-  <a href="./luxury.csv"><b>Download CSV</b></a> ·
-  <a href="./luxury.json"><b>Download JSON</b></a> ·
-  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_methodology"><b>Methodology</b></a> ·
-  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_api_docs"><b>API docs</b></a>
+  <a href="https://unique.domains/domains/tld/luxury?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/luxury?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_create_radar"><b>🔔 Create Radar</b></a> ·
+  <a href="https://unique.domains/domains/tld/luxury?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_start_project"><b>🚀 Start a Project</b></a> ·
+  <b>⬇️ Download sample</b>: <a href="./luxury.csv">CSV</a> / <a href="./luxury.json">JSON</a>
 </p>
+
+<p align="center">
+  <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_methodology">Methodology</a> ·
+  <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_api_docs">API docs</a>
+</p>
+
+---
+
+> This repo is the sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and richer price, demand, and risk context.
+
+**Choose your next step**
+- **Investors:** [Create a Radar from this exact .LUXURY search](https://unique.domains/domains/tld/luxury?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_create_radar)
+- **Founders:** [Start a Project from this exact .LUXURY search](https://unique.domains/domains/tld/luxury?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_start_project)
+- **Researchers / builders:** [Download CSV](./luxury.csv) or [Download JSON](./luxury.json)
 
 ## 📦 What this repository contains
 
@@ -43,28 +56,18 @@ This repository is the public extract for Unique Domains' .LUXURY one-word domai
 - `CHANGELOG.md` — latest snapshot metadata
 - `CITATION.cff` — machine-readable dataset citation metadata
 - `LICENSE` — terms for the public extract
-- `assets/chart-demand-buckets.png` — generated demand-buckets chart
 
-### Use this repo to
+## Why leave GitHub?
 
-- inspect a public sample
-- download CSV or JSON
-- cite the dataset
-- understand the fields and scoring inputs
+| GitHub extract          | Live product                                     |
+| ----------------------- | ------------------------------------------------ |
+| 9,562-row public sample | 5,622,452 live domains                           |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
-### Use the live page to
-
-- keep the exact search context
-- search the full .LUXURY catalog
-- filter by price, demand, status, spelling risk, and fit
-- save the exact search as a Radar
-- turn the search into a founder Project
-
-## 📊 Snapshot of the live .LUXURY catalog
-
-![Demand buckets across the live search](./assets/chart-demand-buckets.png)
-
-**Why this chart:** it gives a fast overview of the live search composition using the same preview payload that supplies the README counts.
+If this sample already feels useful, the live product is where the exact search becomes a workflow.
 
 ## 🧭 Quick start
 
@@ -77,28 +80,36 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | purchase_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | -------------- | ------------- | -------------- | ------ | ------ | --------------- |
-| boss.luxury       | available | $49.99         | —             | 76             | 73     | 4      | name.com        |
-| aaa.luxury        | resell    | $500.98        | —             | 70             | 42     | 3      | Go Daddy, LLC   |
-| power.luxury      | premium   | $520           | $520          | 98             | 64     | 5      | namecheap       |
-| easy.luxury       | available | $49.99         | $49.99        | 128            | 68     | 4      | name.com        |
-| data.luxury       | resell    | —              | —             | 70             | 60     | 4      | Sav.com, LLC- 6 |
-| business.luxury   | premium   | $2,600         | $2,600        | 100            | 54     | 8      | namecheap       |
-| nationwide.luxury | available | $49.99         | $49.99        | 76             | 66     | 10     | name.com        |
-| cloud.luxury      | resell    | —              | —             | 70             | 59     | 5      | Spaceship, Inc. |
-| one.luxury        | premium   | $2,600         | $2,600        | 132            | 51     | 3      | namecheap       |
-| seventeen.luxury  | available | $49.99         | $49.99        | 84             | 62     | 9      | name.com        |
-| wallet.luxury     | resell    | —              | —             | 74             | 51     | 6      | Sav.com, LLC    |
-| gold.luxury       | premium   | $6,500         | $6,500        | 72             | 49     | 4      | namecheap       |
-| ace.luxury        | available | $49.99         | $49.99        | 88             | 57     | 3      | name.com        |
-| game.luxury       | resell    | —              | —             | 120            | 50     | 4      | Sav.com, LLC- 4 |
-| event.luxury      | premium   | $520           | $520          | 96             | 48     | 5      | namecheap       |
-| alpha.luxury      | available | $49.99         | $49.99        | 90             | 53     | 5      | name.com        |
-| core.luxury       | resell    | —              | —             | 68             | 50     | 4      | Go Daddy, LLC   |
-| big.luxury        | premium   | $520           | $520          | 88             | 47     | 3      | namecheap       |
-| athletics.luxury  | available | $500.98        | —             | 69             | 52     | 9      | namecheap       |
-| bit.luxury        | resell    | —              | —             | 108            | 47     | 3      | Dynadot LLC     |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| boss.luxury       | available | $49.99    | —             | 76             | 73     | 4      | name.com        |
+| aaa.luxury        | resell    | $500.98   | —             | 70             | 42     | 3      | Go Daddy, LLC   |
+| power.luxury      | premium   | $520      | $520          | 98             | 64     | 5      | namecheap       |
+| easy.luxury       | available | $49.99    | $49.99        | 128            | 68     | 4      | name.com        |
+| data.luxury       | resell    | —         | —             | 70             | 60     | 4      | Sav.com, LLC- 6 |
+| business.luxury   | premium   | $2,600    | $2,600        | 100            | 54     | 8      | namecheap       |
+| nationwide.luxury | available | $49.99    | $49.99        | 76             | 66     | 10     | name.com        |
+| cloud.luxury      | resell    | —         | —             | 70             | 59     | 5      | Spaceship, Inc. |
+| one.luxury        | premium   | $2,600    | $2,600        | 132            | 51     | 3      | namecheap       |
+| seventeen.luxury  | available | $49.99    | $49.99        | 84             | 62     | 9      | name.com        |
+| wallet.luxury     | resell    | —         | —             | 74             | 51     | 6      | Sav.com, LLC    |
+| gold.luxury       | premium   | $6,500    | $6,500        | 72             | 49     | 4      | namecheap       |
+| ace.luxury        | available | $49.99    | $49.99        | 88             | 57     | 3      | name.com        |
+| game.luxury       | resell    | —         | —             | 120            | 50     | 4      | Sav.com, LLC- 4 |
+| event.luxury      | premium   | $520      | $520          | 96             | 48     | 5      | namecheap       |
+| alpha.luxury      | available | $49.99    | $49.99        | 90             | 53     | 5      | name.com        |
+| core.luxury       | resell    | —         | —             | 68             | 50     | 4      | Go Daddy, LLC   |
+| big.luxury        | premium   | $520      | $520          | 88             | 47     | 3      | namecheap       |
+| athletics.luxury  | available | $500.98   | —             | 69             | 52     | 9      | namecheap       |
+| bit.luxury        | resell    | —         | —             | 108            | 47     | 3      | Dynadot LLC     |
+
+These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
+
+## 🚀 Next move
+
+You are seeing the public sample. The live product keeps the exact search context and adds saved workflows, deeper filters, and alerting.
+
+[Create Radar](https://unique.domains/domains/tld/luxury?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/luxury?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -150,6 +161,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 - [Live .LUXURY page](https://unique.domains/domains/tld/luxury?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=related_pricing)
+- [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_luxury_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
 
 ## 📬 Contact
