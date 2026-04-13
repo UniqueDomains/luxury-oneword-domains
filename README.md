@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .luxury one-word domains from Uniq
 
 **Public extract:** 9,563 rows · **Live catalog:** 9,563 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/luxury`  
 **Best for:** founders, investors, studios
 
@@ -79,7 +79,7 @@ print(df.head())
 | ace.luxury        | available | $49.99    | $49.99        | 88             | 57     | 3      | name.com        |
 | wallet.luxury     | resell    | —         | —             | 74             | 51     | 6      | Sav.com, LLC    |
 | big.luxury        | premium   | $520      | $520          | 88             | 47     | 3      | namecheap       |
-| alpha.luxury      | available | $49.99    | $49.99        | 90             | 54     | 5      | name.com        |
+| alpha.luxury      | available | $49.99    | $49.99        | 90             | 53     | 5      | name.com        |
 | game.luxury       | resell    | —         | —             | 120            | 50     | 4      | Sav.com, LLC- 4 |
 | trade.luxury      | premium   | $2,600    | $2,600        | 116            | 46     | 5      | namecheap       |
 | athletics.luxury  | available | $500.98   | —             | 69             | 52     | 9      | namecheap       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
