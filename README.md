@@ -1,10 +1,10 @@
-# Available .LUXURY One-Word Domains (12,013)
+# Available .LUXURY One-Word Domains (12,521)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C013%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C521%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .luxury one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,013 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,521 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,013 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,521 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/luxury`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | donuts.luxury        | available | $49.99    | —             | 54             | 62     | 6      | name.com      |
 | law.luxury           | resell    | —         | —             | 74             | 45     | 3      | Go Daddy, LLC |
 | online.luxury        | premium   | $7,000    | $7,000        | 70             | 62     | 7      | namecheap     |
-| farmers.luxury       | available | $49.99    | —             | 54             | 59     | 7      | name.com      |
-| jobs.luxury          | premium   | $560      | $560          | 79             | 42     | 4      | namecheap     |
 | keepthechange.luxury | available | $49.99    | —             | 46             | 59     | 15     | name.com      |
-| backyard.luxury      | premium   | $560      | $560          | 80             | 27     | 9      | namecheap     |
+| jobs.luxury          | premium   | $560      | $560          | 79             | 42     | 4      | namecheap     |
 | Books.luxury         | available | $500.98   | —             | 52             | 49     | 5      | namecheap     |
-| pools.luxury         | premium   | $560      | $560          | 61             | 19     | 5      | namecheap     |
+| backyard.luxury      | premium   | $560      | $560          | 80             | 27     | 9      | namecheap     |
 | skills.luxury        | available | $49.99    | —             | 58             | 47     | 6      | name.com      |
-| houses.luxury        | premium   | $560      | $560          | 66             | 18     | 6      | namecheap     |
+| pools.luxury         | premium   | $560      | $560          | 61             | 19     | 5      | namecheap     |
 | Ryan.luxury          | available | $500.98   | —             | 60             | 44     | 4      | namecheap     |
-| travels.luxury       | premium   | $560      | $560          | 64             | 18     | 7      | namecheap     |
+| houses.luxury        | premium   | $560      | $560          | 66             | 18     | 6      | namecheap     |
 | matcha.luxury        | available | $49.99    | —             | 86             | 39     | 6      | name.com      |
-| weddings.luxury      | premium   | $560      | $560          | 64             | 18     | 8      | namecheap     |
-| whynot.luxury        | available | $49.99    | —             | 74             | 39     | 7      | name.com      |
-| Automobiles.luxury   | premium   | $7,000    | $7,000        | 62             | 17     | 11     | namecheap     |
-| etc.luxury           | available | $49.99    | —             | 58             | 34     | 3      | name.com      |
-| wines.luxury         | premium   | $560      | $560          | 63             | 16     | 5      | namecheap     |
+| travels.luxury       | premium   | $560      | $560          | 64             | 18     | 7      | namecheap     |
 | payments.luxury      | available | $49.99    | —             | 58             | 33     | 8      | name.com      |
+| weddings.luxury      | premium   | $560      | $560          | 64             | 18     | 8      | namecheap     |
+| trends.luxury        | available | $49.99    | —             | 60             | 32     | 6      | name.com      |
+| Automobiles.luxury   | premium   | $7,000    | $7,000        | 62             | 17     | 11     | namecheap     |
+| William.luxury       | available | $500.98   | —             | 74             | 31     | 7      | namecheap     |
+| hats.luxury          | premium   | $560      | $560          | 65             | 15     | 4      | namecheap     |
+| rewards.luxury       | available | $49.99    | —             | 62             | 30     | 7      | name.com      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,013 live domains                              |
+| 1,000-row public sample | 12,521 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
