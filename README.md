@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,527 domains · **Median ask:** $117.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/luxury`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | barup.luxury         | available | $49.99    | —             | 82             | 2      | 6      | name.com      |
 | forces.luxury        | available | $49.99    | —             | 82             | 12     | 6      | name.com      |
 | geton.luxury         | available | $49.99    | —             | 82             | 10     | 6      | name.com      |
-| popup.luxury         | available | $49.99    | —             | 84             | 29     | 6      | name.com      |
+| popup.luxury         | available | $49.99    | —             | 84             | 28     | 6      | name.com      |
 | matcha.luxury        | available | $49.99    | —             | 86             | 39     | 6      | name.com      |
 | playon.luxury        | available | $49.99    | —             | 80             | 14     | 7      | name.com      |
 | QandA.luxury         | available | $500.98   | —             | 80             | 10     | 7      | namecheap     |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
