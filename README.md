@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,527 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,527 domains · **Median ask:** $117.86 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,527 domains · **Median ask:** $119.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/luxury`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/luxury`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LUXURY one-word domai
 
 ### Files
 
-- `luxury.csv` — public CSV extract (1,000 rows)
-- `luxury.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `luxury.csv`, public CSV extract (1,000 rows)
+- `luxury.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| tips.luxury          | available | $49.99    | —             | 80             | 26     | 4      | name.com      |
-| finals.luxury        | available | $49.99    | —             | 80             | 7      | 6      | name.com      |
-| barup.luxury         | available | $49.99    | —             | 82             | 2      | 6      | name.com      |
-| forces.luxury        | available | $49.99    | —             | 82             | 12     | 6      | name.com      |
-| geton.luxury         | available | $49.99    | —             | 82             | 10     | 6      | name.com      |
-| popup.luxury         | available | $49.99    | —             | 84             | 28     | 6      | name.com      |
-| matcha.luxury        | available | $49.99    | —             | 86             | 39     | 6      | name.com      |
-| playon.luxury        | available | $49.99    | —             | 80             | 14     | 7      | name.com      |
-| QandA.luxury         | available | $500.98   | —             | 80             | 10     | 7      | namecheap     |
-| toneup.luxury        | available | $49.99    | —             | 80             | 5      | 7      | name.com      |
-| hangon.luxury        | available | $49.99    | —             | 82             | 6      | 7      | name.com      |
-| getlife.luxury       | available | $49.99    | —             | 80             | 5      | 8      | name.com      |
-| leaveon.luxury       | available | $49.99    | —             | 80             | 1      | 8      | name.com      |
-| messages.luxury      | available | $49.99    | —             | 80             | 16     | 8      | name.com      |
-| donuts.luxury        | available | $49.99    | —             | 54             | 62     | 6      | name.com      |
-| law.luxury           | resell    | —         | —             | 74             | 45     | 3      | Go Daddy, LLC |
-| online.luxury        | premium   | $7,000    | $7,000        | 70             | 62     | 7      | namecheap     |
-| keepthechange.luxury | available | $49.99    | —             | 46             | 59     | 15     | name.com      |
-| jobs.luxury          | premium   | $560      | $560          | 79             | 42     | 4      | namecheap     |
-| Books.luxury         | available | $500.98   | —             | 52             | 49     | 5      | namecheap     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| ash.luxury     | available | $49.99    | —             | medium         | low    | 3      | name.com                                 |
+| asia.luxury    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                          |
+| big.luxury     | premium   | $520      | $520          | high           | medium | 3      | namecheap                                |
+| Ava.luxury     | available | $49.99    | —             | high           | medium | 3      | name.com                                 |
+| game.luxury    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC- 4                          |
+| look.luxury    | premium   | $2,800    | $2,800        | high           | low    | 4      | namecheap                                |
+| axe.luxury     | available | $49.99    | —             | medium         | low    | 3      | name.com                                 |
+| medical.luxury | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                          |
+| must.luxury    | premium   | $560      | $560          | high           | low    | 4      | namecheap                                |
+| bow.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
+| virtual.luxury | resell    | —         | —             | medium         | medium | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| ruby.luxury    | premium   | $7,000    | $7,000        | high           | low    | 4      | namecheap                                |
+| cod.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
+| sale.luxury    | premium   | $2,800    | $2,800        | high           | low    | 4      | namecheap                                |
+| dig.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
+| team.luxury    | premium   | $560      | $560          | high           | medium | 4      | namecheap                                |
+| DJI.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
+| Your.luxury    | premium   | $2,800    | $2,800        | medium         | medium | 4      | namecheap                                |
+| due.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
+| asian.luxury   | premium   | $7,000    | $7,000        | high           | low    | 5      | namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set focuses only on one-word .luxury domains. The names range from clear generics such as tips.luxury, eggs.luxury, and jewels.luxury to shorter coined or less obvious forms such as Acup.luxury and barup.luxury. For founders, the main question is whether the word feels premium, memorable, and easy to defend as a brand in a luxury context. For investors, the key test is whether the keyword has enough commercial meaning to support resale interest beyond registration novelty. With a median ask of 117.86, price discipline matters less than fit, renewal tolerance, and trademark cleanliness.
+This set of 12,527 one-word .luxury domains covers a wide range of everyday and lifestyle concepts expressed as single, compound words. Names like cuddleup.luxury, dogwalking.luxury, keepfit.luxury, and destination.luxury show the pattern: two familiar words joined into one ownable term. The median asking price across the selection sits near $119, making it accessible for founders comparing a shortlist and for investors scanning for pricing spread across a large, niche TLD. Because .luxury is less saturated than mainstream extensions, many straightforward word combinations remain unclaimed, which affects both brandability and long-term value considerations.
 
-- Prioritize words that naturally fit premium or luxury positioning
-- Generic terms can be clearer; coined terms need stronger brand logic
-- Check trademark overlap before valuing a short or punchy keyword
-- Use ask price with renewal fit, not price alone, to judge value
+- 12,527 one-word .luxury domains, updated daily
+- Median asking price near $119 across this selection
+- Compound names like getmoving.luxury and toneup.luxury
+- Brandable names spanning wellness, food, and lifestyle
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
