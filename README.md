@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,448 domains · **Median ask:** $94.97 · **High-demand under $2,500:** 50
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/luxury`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| half.luxury    | available | $49.99    | —             | high           | low    | 4      | name.com                                 |
-| correct.luxury | available | $49.99    | $49.99        | high           | low    | 7      | name.com                                 |
-| content.luxury | available | $49.99    | $49.99        | high           | low    | 7      | name.com                                 |
 | ash.luxury     | available | $49.99    | —             | medium         | low    | 3      | name.com                                 |
 | asia.luxury    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                          |
 | big.luxury     | premium   | $520      | $520          | high           | medium | 3      | namecheap                                |
@@ -84,6 +81,9 @@ print(df.head())
 | clx.luxury     | available | $49.99    | $49.99        | low            | low    | 3      | name.com                                 |
 | team.luxury    | premium   | $560      | $560          | high           | medium | 4      | namecheap                                |
 | cod.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
+| Your.luxury    | premium   | $2,800    | $2,800        | medium         | medium | 4      | namecheap                                |
+| cxl.luxury     | available | $49.99    | $49.99        | low            | low    | 3      | name.com                                 |
+| asian.luxury   | premium   | $7,000    | $7,000        | high           | low    | 5      | namecheap                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
