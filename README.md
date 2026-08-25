@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,118 domains · **Median ask:** $92.87 · **High-demand under $2,500:** 50
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/luxury`
 **Best for:** founders, investors, studios
 
@@ -74,7 +74,7 @@ print(df.head())
 | medical.luxury | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                          |
 | must.luxury    | premium   | $560      | $560          | high           | low    | 4      | namecheap                                |
 | bow.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
-| virtual.luxury | resell    | —         | —             | medium         | low    | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
+| virtual.luxury | resell    | —         | —             | medium         | medium | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | ruby.luxury    | premium   | $7,000    | $7,000        | high           | low    | 4      | namecheap                                |
 | clv.luxury     | available | $49.99    | $49.99        | low            | low    | 3      | name.com                                 |
 | sale.luxury    | premium   | $2,800    | $2,800        | high           | low    | 4      | namecheap                                |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
