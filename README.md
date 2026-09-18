@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .luxury one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,607 domains · **Median ask:** $91.90 · **High-demand under $2,500:** 53
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/luxury`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
+| medical.luxury | available | —         | —             | high           | low    | 7      | —                                        |
 | ash.luxury     | available | $49.99    | —             | medium         | low    | 3      | name.com                                 |
 | asia.luxury    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                          |
 | big.luxury     | premium   | $520      | $520          | high           | medium | 3      | namecheap                                |
@@ -71,10 +72,9 @@ print(df.head())
 | game.luxury    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC- 4                          |
 | look.luxury    | premium   | $2,800    | $2,800        | high           | low    | 4      | namecheap                                |
 | axe.luxury     | available | $49.99    | —             | medium         | low    | 3      | name.com                                 |
-| medical.luxury | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc.                          |
+| virtual.luxury | resell    | —         | —             | medium         | low    | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | must.luxury    | premium   | $560      | $560          | high           | low    | 4      | namecheap                                |
 | bow.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com                                 |
-| virtual.luxury | resell    | —         | —             | medium         | low    | 7      | Hosting Concepts B.V. d/b/a Registrar.eu |
 | ruby.luxury    | premium   | $7,000    | $7,000        | high           | low    | 4      | namecheap                                |
 | clv.luxury     | available | $49.99    | $49.99        | low            | low    | 3      | name.com                                 |
 | sale.luxury    | premium   | $2,800    | $2,800        | high           | low    | 4      | namecheap                                |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
