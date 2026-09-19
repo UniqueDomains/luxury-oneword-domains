@@ -818,7 +818,7 @@ ec5135fa-8f38-443b-ab16-d90835ca4aab,decide.luxury,available,49.99,,high,low,6,n
 e83cb5a0-e402-4a04-9fb1-72bfe404cebf,referable.luxury,available,49.99,49.99,low,low,9,name.com,,,07/08/2026 01:28
 ab1b3afc-24a5-4b33-94e4-022c536752ad,lager.luxury,available,49.99,,high,low,5,name.com,,,
 9a478f0e-72be-422e-8fd7-cfad9b6af819,expectant.luxury,available,49.99,,high,low,9,name.com,,,
-6be255f3-08d8-45c5-b950-7679333165e5,content.luxury,available,49.99,49.99,medium,medium,7,name.com,,,08/09/2026 11:59
+6be255f3-08d8-45c5-b950-7679333165e5,content.luxury,available,49.99,49.99,medium,low,7,name.com,,,19/09/2026 03:52
 cba6a877-2db2-4d12-b0fb-36be92ef57c7,asian.luxury,premium,7000,7000,high,low,5,namecheap,,,
 f9b69a47-6de5-4abe-9c11-a298afbfbd28,hardatit.luxury,available,49.99,,high,low,10,name.com,,,
 eb1a93ce-6c51-40ce-9def-a675826f1103,profile.luxury,available,49.99,,high,low,7,name.com,,,
@@ -928,7 +928,6 @@ be6c8438-a023-4390-ae1f-70937673a168,senseofsmell.luxury,available,49.99,,low,lo
 eb43e108-873d-4e24-a461-4896bac2bc97,booklist.luxury,available,49.99,,high,low,8,name.com,,,
 7e74d16f-a5ee-4b57-a00c-f172ca7c0ebc,challenging.luxury,available,49.99,,high,low,11,name.com,,,
 d63a5f74-9a84-4c85-97cb-687114dac592,deserter.luxury,available,49.99,49.99,low,low,8,name.com,,,06/08/2026 03:40
-e4309577-6c71-4cc0-8dfe-bfa0e6a5286f,transfer.luxury,available,49.99,,high,low,8,name.com,,,
 d46fb589-7316-4c1a-abdc-dac654a0a401,definitively.luxury,available,49.99,,medium,low,12,name.com,,,
 fc0e3ab8-5838-4c98-a1c9-98664edb0ec4,enterthepicture.luxury,available,49.99,,medium,low,17,name.com,,,
 f6da1d6e-4c3e-4743-9796-2fa8ff98dc97,answerable.luxury,available,49.99,,high,low,10,name.com,,,
@@ -999,3 +998,4 @@ c85c521d-f770-4394-98f4-13e76bbc30f4,autarchic.luxury,available,49.99,49.99,low,
 7cb11897-c6f9-494d-8863-19525cfa5898,succeed.luxury,available,49.99,,high,low,7,name.com,,,
 488c3a76-5c46-470e-b70a-2b5deb49b0fa,antique.luxury,available,,,high,low,7,,,,
 cbe2dec9-a497-4bff-badc-59b62525660e,shoplift.luxury,available,49.99,,high,low,8,name.com,,,
+1c9470cb-1182-4485-afef-f43a514e3163,freeway.luxury,available,49.99,,high,low,7,name.com,,,
