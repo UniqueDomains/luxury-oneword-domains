@@ -32,6 +32,7 @@ acb3334c-c6d0-489c-8b56-60f7c17249a6,ice.luxury,resell,,,high,medium,3,"GoDaddy.
 03f51a84-a3dd-4f77-a197-86f7ad59b463,honorable.luxury,available,49.99,49.99,high,low,9,name.com,,,21/08/2026 13:21
 e48a0bf8-7cb7-488d-8681-f702eee8072b,tantalum.luxury,available,,,medium,low,8,,,,20/09/2026 23:42
 4447e1ba-21d2-452a-9f24-413208c4d931,salisbury.luxury,available,,,high,low,9,,,,24/09/2026 12:37
+45a68c55-1592-42cc-a596-1c56b6289b1c,westchester.luxury,available,,,medium,low,11,,,,27/09/2026 01:58
 9300f091-1be4-425f-babc-b0595f4514ca,kurosawa.luxury,available,,,medium,low,8,,,,18/09/2026 00:08
 cfbb5191-166a-4e8b-9cc4-db20becb1a09,baroness.luxury,available,,,high,low,8,,,,22/09/2026 07:21
 6ce765fc-32f9-4cfc-9bcf-e01c39787bda,balaclava.luxury,available,,,medium,low,9,,,,21/09/2026 20:27
@@ -42,7 +43,7 @@ ea9eb78f-5382-4a66-bc33-befc900f2fd8,loops.luxury,available,49.99,,high,low,5,na
 203c5a9a-9edd-4570-a0c0-fdfb3547c2b3,telluric.luxury,available,,,medium,low,8,,,,11/09/2026 10:39
 5c23e20f-4931-4c41-b439-d79678f82945,saved.luxury,available,49.99,,high,low,5,name.com,,,
 5cf1c846-900f-4772-a321-6007c5e3db1d,recalled.luxury,available,49.99,,medium,low,8,name.com,,,18/09/2026 02:40
-7e7dcee5-ead7-4779-b624-e502c4dd5498,paperback.luxury,available,49.99,,high,low,9,name.com,,,
+7e7dcee5-ead7-4779-b624-e502c4dd5498,paperback.luxury,available,49.99,,high,low,9,name.com,,,27/09/2026 02:40
 94071d09-4cbf-480e-923e-2a2535baa7ca,alluvion.luxury,available,49.99,49.99,medium,low,8,name.com,,,18/09/2026 12:21
 f30b9d76-bf1b-46c5-875f-196504eb9475,weakest.luxury,available,49.99,,medium,low,7,name.com,,,
 10cd2d8e-7c1e-4edc-9752-4c3d49dcee59,satisfactory.luxury,available,49.99,,high,low,12,name.com,,,
@@ -112,6 +113,7 @@ fbbf79ad-4359-43da-b366-991385340095,independent.luxury,available,49.99,,high,lo
 0aa51240-d656-4b45-80c7-47e44754d64c,surrogate.luxury,available,49.99,49.99,high,low,9,name.com,,,22/09/2026 02:27
 33c02eb5-65ae-4136-9515-6b6740738d7a,manganese.luxury,available,,,medium,low,9,,,,20/09/2026 22:40
 7f9c8bfd-24e0-486c-b6c6-802d5b625596,lxxiv.luxury,available,49.99,49.99,medium,low,5,name.com,,,
+be3990cc-69c8-4be1-a5c7-60544bb004c6,dominic.luxury,available,,,high,low,7,,,,27/09/2026 03:45
 4edd2064-9829-4b7d-a213-16bb14db76da,floodwaters.luxury,available,49.99,,medium,low,11,name.com,,,21/09/2026 03:37
 eb36022a-0d75-4b9d-a8d4-f2e54edfce37,listening.luxury,available,,,high,low,9,,,,25/09/2026 09:00
 c6d7a593-19f1-48f9-a494-f6d306d84d35,apothecium.luxury,available,,,medium,low,10,,,,19/09/2026 19:43
@@ -146,6 +148,7 @@ c6adc87c-2e17-4bd7-85e5-e1cfa73b359e,eleven.luxury,available,49.99,49.99,high,lo
 d4c6b3f8-f17e-42ba-8d66-5467746ffe4e,downstair.luxury,available,49.99,49.99,medium,low,9,name.com,,,14/08/2026 17:57
 eacaa21b-6caf-4323-94aa-2552b3359563,corned.luxury,available,49.99,49.99,medium,low,6,name.com,,,13/08/2026 01:33
 bbf6b59d-ccaa-43cb-a564-bc76e238fb99,seared.luxury,available,,,medium,low,6,,,,10/09/2026 00:52
+2e1570c4-e4e2-4c14-9aae-07fc2780e0b5,ducktape.luxury,available,,,high,low,9,,,,27/09/2026 08:55
 da3b3a80-3201-491c-aee2-39d3c2d5f050,leap.luxury,available,,,high,medium,4,,,,23/09/2026 01:39
 10c3fa84-79ba-4cdb-9ec8-fd2f199b98e7,impound.luxury,available,49.99,49.99,high,low,7,name.com,,,12/08/2026 21:04
 54e1201a-927d-4c64-8bca-4a22575653e6,crowns.luxury,available,49.99,,medium,low,6,name.com,,,18/09/2026 06:26
@@ -170,6 +173,7 @@ ac5baddf-188c-4025-aa1a-107231dbbc42,california.luxury,available,,,high,low,10,,
 aa9c2e5d-fbf8-402d-96d5-ac016b9b62e8,bothersome.luxury,available,49.99,49.99,medium,low,10,name.com,,,
 d71f4426-2528-4f3d-b1fc-b1dcc44e5f62,desktop.luxury,available,49.99,,high,low,7,name.com,,,
 3887e8f9-1ea8-46e3-af9c-69dd69df6799,anseres.luxury,available,,,medium,low,7,,,,19/09/2026 12:08
+21df3968-c482-40d0-bce6-11a0410660cc,grows.luxury,available,,,medium,low,5,,,,27/09/2026 10:10
 7c45753f-7fcb-4cb2-abda-f4c506719a51,right.luxury,available,49.99,49.99,high,low,5,name.com,,,23/09/2026 23:38
 67ffaaaa-b0f2-4f6a-8849-c79b85a7f947,draped.luxury,available,49.99,49.99,high,low,6,name.com,,,14/08/2026 18:23
 8a2e4425-abb3-4b30-b7e5-707784be94cc,eliza.luxury,available,49.99,,high,low,5,name.com,,,
@@ -222,9 +226,10 @@ c5565421-de30-4734-98d6-9aa0ea06bfd9,conjecture.luxury,available,,,high,low,10,,
 e4389f83-4515-416a-a70e-2522f5e8d103,weblike.luxury,available,,,medium,low,7,,,,03/09/2026 16:06
 39f5603c-902e-4b0d-be72-f097501a0708,cacomistle.luxury,available,,,medium,low,10,,,,22/09/2026 12:02
 4a3f2eb3-9ab0-4358-ad8a-8f85b905b5e9,antapex.luxury,available,,,medium,low,7,,,,19/09/2026 12:32
+0892c001-99c6-4c91-b1e6-cf66ae40b15d,lynn.luxury,available,,,high,low,4,,,,27/09/2026 07:20
 912432a9-18e2-4839-88a2-c2c8902836dc,swimmer.luxury,available,,,high,low,7,,,,22/09/2026 13:29
-bd58653d-e563-47e7-8768-9b54b9edbe63,forever.luxury,available,49.99,,high,medium,7,name.com,,,
-e2cee786-f591-46d4-890f-9c954325f32b,balance.luxury,available,49.99,,high,low,7,name.com,,,
+bd58653d-e563-47e7-8768-9b54b9edbe63,forever.luxury,available,49.99,,high,medium,7,name.com,,,27/09/2026 02:31
+e2cee786-f591-46d4-890f-9c954325f32b,balance.luxury,available,26,26,high,low,7,spaceship,,,27/09/2026 12:05
 e572e6ad-f30d-4683-a48f-9212db431b61,thesis.luxury,available,,,high,low,6,,,,24/09/2026 23:05
 457330c7-663e-4bcc-b563-85c4c52bf848,amnesiac.luxury,available,49.99,49.99,medium,low,8,name.com,,,
 10f38daa-db51-443f-aa03-3692d44ffb6d,paramedic.luxury,available,,,high,low,9,,,,08/09/2026 00:59
@@ -257,6 +262,7 @@ be655659-86b0-45c3-bfc2-1e85f461fd0b,corps.luxury,available,49.99,,high,low,5,na
 01b58cf6-259b-40fc-97f2-d9ec82f34c37,demonstration.luxury,available,49.99,,high,low,13,name.com,,,
 c5057143-3378-498f-9f8a-a8a84c5470ee,dispatch.luxury,available,,,high,low,8,,,,04/09/2026 00:56
 e5b677ee-a4cf-4251-bb4f-fcf6dacc4441,profundity.luxury,available,,,medium,low,10,,,,16/09/2026 18:38
+16c9a2a5-45dc-4a89-8262-9be3a44426e0,got.luxury,available,,,high,low,3,,,,27/09/2026 07:08
 58e69d74-20a5-46ff-aebe-67135fdfb591,stria.luxury,available,,,high,low,5,,,,22/09/2026 01:18
 b34dee05-edb0-4d62-864b-69495efa49c1,finally.luxury,available,49.99,,high,low,7,name.com,,,
 0dfefee0-3551-4a10-a9a2-d46ae654559b,traveling.luxury,premium,2800,2800,high,low,9,namecheap,,,
@@ -301,10 +307,10 @@ a234f662-24fe-495e-844d-d6d47e93d474,improving.luxury,available,49.99,49.99,high
 95e5eaa4-a0e3-48e5-abb2-e9c3eef8342b,sane.luxury,available,,,high,low,4,,,,19/09/2026 15:46
 c1246d3b-1980-4e6b-97ad-bd7b910ca247,funds.luxury,available,49.99,,high,low,5,name.com,,,
 e8c4d669-e1ce-40ce-9ca9-ee9caa2dc4b8,banquette.luxury,available,,,medium,low,9,,,,22/09/2026 03:08
-8a1b4f5e-890f-412e-88e1-798cfed1fe47,airplane.luxury,premium,2800,2800,high,low,8,namecheap,,,
+8a1b4f5e-890f-412e-88e1-798cfed1fe47,airplane.luxury,premium,2600,2600,high,low,8,namecheap,,,27/09/2026 04:01
 91b6246b-20b8-4821-8073-fdac0ce45941,dye.luxury,available,49.99,,high,low,3,name.com,,,
 da24c6fe-f414-47ff-a38c-ddf849df3f0d,haunted.luxury,available,49.99,49.99,high,low,7,name.com,,,21/08/2026 01:31
-82860200-382a-4924-a5b7-ea70b5e23225,fill.luxury,available,49.99,,high,low,4,name.com,,,
+82860200-382a-4924-a5b7-ea70b5e23225,fill.luxury,available,26,26,high,low,4,spaceship,,,27/09/2026 11:50
 5c18a594-f41c-451f-ac24-43ccda7fcbf3,fourteenth.luxury,available,49.99,49.99,high,low,10,name.com,,,
 e9cd27a3-f111-40c2-8e08-68ea9f7df8a9,drastic.luxury,available,49.99,49.99,high,low,7,name.com,,,14/08/2026 18:27
 53408e32-5c16-4d34-bd11-5fea63842744,pyloric.luxury,available,49.99,49.99,high,medium,7,name.com,,,09/09/2026 06:52
@@ -426,6 +432,7 @@ c2034d32-6106-4be9-b96d-c68948cd59db,drab.luxury,available,49.99,49.99,medium,lo
 d05901c7-f8fc-4245-b483-36d52c7a99c5,thousand.luxury,available,49.99,49.99,high,low,8,name.com,,,21/09/2026 11:02
 30e1eab9-ff4a-4bca-bae0-c2b812923990,asepsis.luxury,available,,,medium,low,7,,,,19/09/2026 15:02
 a21de9e1-c7dc-4034-a63d-bd4573bfc0e7,charger.luxury,available,,,high,low,7,,,,22/09/2026 14:35
+06bcbaac-41f8-4269-91e5-430262038a89,criminals.luxury,available,,,low,low,9,,,,27/09/2026 03:03
 1c8dbdbd-e771-4695-805c-be6f666e57a6,redness.luxury,available,,,high,medium,7,,,,09/09/2026 12:08
 dad1547b-6590-424d-b085-15051807383e,cadillac.luxury,available,49.99,,high,low,8,name.com,,,
 d335ea03-639d-470f-b46c-309f74485bbb,standing.luxury,available,49.99,,high,low,8,name.com,,,
@@ -438,6 +445,7 @@ a9efbc03-e06b-4922-9c9a-06d4d76b423f,pressure.luxury,available,49.99,,high,low,8
 6f8d6495-8033-4eeb-bfd3-ea7ae5341786,approaches.luxury,available,49.99,,high,low,10,name.com,,,23/09/2026 20:05
 d5fbe700-f8b0-4478-8817-af71a418ec99,praetorial.luxury,available,,,high,medium,10,,,,09/09/2026 00:59
 07c2eb94-3d49-4b34-bcc8-474bbb49d941,busily.luxury,available,,,high,low,6,,,,14/09/2026 01:53
+c4fae898-a1b0-4b0a-b227-89c5c8fbb380,suspects.luxury,available,,,medium,low,8,,,,27/09/2026 03:17
 41ce796f-a8ce-4230-92fa-f9967bd4b630,albatross.luxury,available,49.99,49.99,high,low,9,name.com,,,18/09/2026 02:28
 b3fef19f-9ed1-4efc-8774-87f3d7e4039b,migrator.luxury,available,49.99,49.99,medium,low,8,name.com,,,24/08/2026 22:51
 4069ff3f-d51e-49bf-b751-8bc594fa6a98,yon.luxury,available,,,medium,low,3,,,,13/09/2026 14:47
@@ -497,7 +505,7 @@ eede991e-2216-42b6-97ad-549a71396b41,diagnosis.luxury,available,49.99,0,high,low
 5a8617a0-00e0-4251-9615-59a087328a63,magnetic.luxury,available,49.99,49.99,high,low,8,name.com,,,12/08/2026 02:32
 66db000d-7c20-48d6-867c-b9d46f13ff76,flip.luxury,available,49.99,,high,medium,4,name.com,,,24/09/2026 20:06
 624f20c1-ba65-4443-9b36-2af3bd119f4a,sees.luxury,available,49.99,49.99,medium,low,4,name.com,,,
-c5bf7fcd-f36c-4249-a7ef-e2d3bceadfec,toilet.luxury,available,49.99,,high,low,6,name.com,,,
+c5bf7fcd-f36c-4249-a7ef-e2d3bceadfec,toilet.luxury,available,49.99,,high,low,6,name.com,,,27/09/2026 04:48
 084e3a56-a352-43eb-ba7a-f846d07d927a,meliorist.luxury,available,,,high,medium,9,,,,09/09/2026 12:46
 9ef20ddf-0d7a-424c-a9f6-75619c7b359a,hapless.luxury,available,49.99,49.99,medium,low,7,name.com,,,20/08/2026 23:48
 fd207a8a-30fe-4a90-8e9a-69bf132f10ce,abroad.luxury,premium,520,520,high,low,6,namecheap,,,21/09/2026 14:31
@@ -516,6 +524,7 @@ aec1ddd7-6cc5-4bc7-9d26-256d77356237,bishkek.luxury,available,,,medium,low,7,,,,
 24865f5c-88d0-4f8f-b108-5c63a13fbd83,mackay.luxury,available,,,medium,low,6,,,,25/09/2026 16:20
 d69338ab-9afc-4d87-b229-243f07de09e6,daly.luxury,available,,,high,low,4,,,,25/09/2026 13:04
 8d27df59-6906-430b-a4f2-89460fffbe9a,ignored.luxury,available,49.99,49.99,medium,low,7,name.com,,,21/08/2026 18:34
+67dd8758-d6e7-4d6f-a537-a5787fc05476,clemson.luxury,available,49.99,49.99,high,low,7,name.com,,,27/09/2026 07:07
 62e8e9a2-4b6c-4e30-b56d-6c0b556d0bf4,columnar.luxury,available,49.99,49.99,medium,low,8,name.com,,,12/08/2026 18:14
 9120237a-49db-4dc7-b3fb-ee659afc3ffd,babassu.luxury,available,,,medium,low,7,,,,21/09/2026 12:15
 e46d3595-f391-4970-a0d5-1d5db0d742a7,conceal.luxury,available,49.99,,high,low,7,name.com,,,
@@ -648,7 +657,7 @@ d25f2099-3b7d-476b-9755-5dfd23ea415b,allowable.luxury,available,49.99,49.99,high
 370a7822-0902-4892-baea-740c2b477a2f,sentential.luxury,available,,,medium,low,10,,,,10/09/2026 03:50
 4dcf6d9a-5951-4cc4-8b0d-c7c7376817dd,forfeit.luxury,available,49.99,49.99,high,low,7,name.com,,,12/08/2026 21:00
 e88c8586-b2c6-4e64-b848-f7851f438987,corresponding.luxury,available,49.99,,high,low,13,name.com,,,
-28230a6b-590a-4c3b-b204-717a73891cf4,cook.luxury,premium,560,560,high,low,4,namecheap,,,
+28230a6b-590a-4c3b-b204-717a73891cf4,cook.luxury,premium,520,520,high,low,4,namecheap,,,27/09/2026 10:07
 1bed368b-78cb-47ec-ba32-4a4ad3194d9e,algometric.luxury,available,49.99,49.99,medium,low,10,name.com,,,
 a20d4e62-b785-4dc0-a17e-7fc8ea4bd6fb,gainfully.luxury,available,,,medium,low,9,,,,14/09/2026 20:58
 39d684f1-375c-439c-899e-ed5da854a625,hygienic.luxury,available,49.99,49.99,high,low,8,name.com,,,21/08/2026 16:27
@@ -657,7 +666,7 @@ a20d4e62-b785-4dc0-a17e-7fc8ea4bd6fb,gainfully.luxury,available,,,medium,low,9,,
 e6194c57-5e91-4b20-bee7-17a954e432c5,glaucous.luxury,available,49.99,49.99,medium,low,8,name.com,,,20/08/2026 14:16
 e8321d2b-c6cb-4523-b25f-1940019aa57f,liam.luxury,available,49.99,,high,low,4,name.com,,,
 6915100b-a4a4-4d16-a3ad-4acba76d1c75,unrested.luxury,available,,,medium,low,8,,,,12/09/2026 18:02
-d7285607-afde-4056-89d3-ec4720b2067b,bicycle.luxury,available,49.99,,high,low,7,name.com,,,
+d7285607-afde-4056-89d3-ec4720b2067b,bicycle.luxury,available,49.99,,high,low,7,name.com,,,27/09/2026 03:10
 faef15f7-7132-4096-a49c-98d737bc8b8f,viridity.luxury,available,49.99,49.99,high,low,8,name.com,,,20/08/2026 19:47
 e5ca5953-0bb1-470e-b76a-7c65a8f3ba2d,cuddly.luxury,available,49.99,49.99,high,low,6,name.com,,,13/08/2026 10:11
 d9f1a4e9-364d-465f-96f8-725628afcaaa,collective.luxury,available,49.99,49.99,high,medium,10,name.com,,,12/08/2026 17:03
@@ -688,7 +697,7 @@ c4d6bcfa-61b4-4cfa-8068-e00c47b55dad,fidgety.luxury,available,49.99,49.99,medium
 d6470451-d5cb-4f7d-9e00-a55e8dd9cf35,sheathed.luxury,available,,,high,medium,8,,,,10/09/2026 06:12
 add0483b-9ab5-4ffc-9a6c-1a2154e78b9d,futurity.luxury,available,49.99,49.99,high,low,8,name.com,,,18/08/2026 19:11
 66a9d060-4dee-49e1-864d-82270e08e65d,documentation.luxury,available,49.99,,high,low,13,name.com,,,
-6521f39d-0fd3-4c91-b76b-e529c2747681,potential.luxury,available,49.99,,high,low,9,name.com,,,
+6521f39d-0fd3-4c91-b76b-e529c2747681,potential.luxury,available,49.99,,high,low,9,name.com,,,27/09/2026 04:46
 2751393a-725f-4cd7-93f5-5be11a6d3d76,keith.luxury,available,,,high,low,5,,,,17/09/2026 22:02
 ec474caa-98f8-4af8-8913-e771c1103e4c,minty.luxury,available,49.99,49.99,high,low,5,name.com,,,25/08/2026 00:53
 5ba472b1-253d-4883-840c-c740f6740562,oklahoman.luxury,available,49.99,49.99,medium,low,9,name.com,,,16/09/2026 05:05
@@ -740,6 +749,7 @@ ada7a0ac-a9b4-46b2-9f3e-663f0bcd0a66,squatty.luxury,available,49.99,49.99,medium
 46a05c47-db63-4321-bdf3-c3f8d75e6530,analytic.luxury,available,49.99,49.99,high,low,8,name.com,,,
 20b6aed2-71f8-4d9d-960a-a0e44b735a7d,ames.luxury,available,,,high,low,4,,,,25/09/2026 12:32
 810c7d1c-2482-4a23-8349-527c0eb7c541,diazo.luxury,available,49.99,49.99,medium,low,5,name.com,,,14/08/2026 06:23
+80f301a7-3d64-41f3-8081-f5de10f49235,hahn.luxury,available,,,high,low,4,,,,27/09/2026 04:20
 83be5690-f491-4e85-8d19-19ce7121f82c,fourteen.luxury,available,49.99,49.99,high,low,8,name.com,,,21/09/2026 11:38
 71519d9d-26be-49f9-9827-a0acb9c9a124,disclosure.luxury,available,49.99,,high,low,10,name.com,,,
 5f494e70-62c4-4ab1-b747-7d8b160d5c56,crepuscule.luxury,available,,,medium,low,10,,,,11/09/2026 21:48
@@ -768,6 +778,7 @@ bc072df6-7e3b-417d-9fff-870d99b9e023,crime.luxury,available,,,high,low,5,,,,24/0
 39cfbf74-620b-4da6-8fbf-300dcad7d1ea,gonzalez.luxury,available,,,high,low,8,,,,25/09/2026 16:13
 c4c5ecc8-ba03-493b-b6cb-3f117e4fbc45,maybe.luxury,available,49.99,,high,low,5,name.com,,,
 250f6841-34a9-49e6-afb4-8caf3446716f,epitope.luxury,available,49.99,49.99,medium,low,7,name.com,,,19/09/2026 14:25
+22ca7f05-231c-47f8-ae59-80fe1069c052,crashed.luxury,available,26,26,low,low,7,spaceship,,,27/09/2026 11:29
 7b8948ef-ac35-45c0-ad13-810e56ec921f,hand.luxury,available,49.99,,high,low,4,name.com,,,
 a47a5193-9940-4880-8d33-ab1dbe79d44c,storms.luxury,available,49.99,,medium,low,6,name.com,,,17/09/2026 15:55
 d4239636-849b-4574-903f-4ec1c795f5cc,besides.luxury,available,49.99,,high,low,7,name.com,,,
@@ -792,6 +803,7 @@ e2d32ef6-0e8e-4892-b249-deee1c2a6b0e,furnishings.luxury,premium,520,520,high,low
 0ef9a882-9c01-4ada-b030-006a65558c05,satiable.luxury,available,,,medium,low,8,,,,09/09/2026 21:37
 201d99c0-ca7a-4618-97b0-1762f577eca3,aventurine.luxury,available,,,high,low,10,,,,21/09/2026 09:07
 5beac4a0-6546-43a8-ac2e-2260a1be8a91,clxx.luxury,available,49.99,49.99,medium,low,4,name.com,,,
+6a3adee1-0968-435c-b497-b7af3a743dd0,vince.luxury,available,,,high,low,5,,,,27/09/2026 07:24
 3f1cad94-e1f3-4930-bca8-d598b500cf14,changeover.luxury,available,49.99,,high,low,11,name.com,,,
 e7ea252c-4260-4933-a3f2-8c6d13e49179,continuing.luxury,available,49.99,49.99,high,low,10,name.com,,,23/09/2026 22:17
 3ca9f997-1646-478d-8beb-af0fda99fab9,spot.luxury,available,49.99,,high,medium,4,name.com,,,
@@ -819,6 +831,7 @@ ef2b585b-b524-4c6e-89d9-e77e77948a4d,bolt.luxury,available,49.99,,high,medium,4,
 996f9e1f-9cbc-4278-a1cc-db830eeadf53,unflagging.luxury,available,49.99,49.99,high,low,10,name.com,,,22/08/2026 02:31
 5efac9e9-2f40-4c9c-a3c2-80ab8dd82c5d,hub.luxury,available,49.99,,high,medium,3,name.com,,,
 78c65ddf-6863-40ee-87cf-aba7f2701774,lxii.luxury,available,49.99,49.99,medium,low,4,name.com,,,
+669d8993-12d7-4759-9ca2-6e4aa545e861,signals.luxury,available,,,high,low,7,,,,27/09/2026 09:40
 176d4be0-5250-4b1e-9393-060dc492ae5d,disclaimer.luxury,available,,,high,low,10,,,,24/09/2026 22:28
 38875d15-1b59-450c-882e-954fcf097553,properly.luxury,available,49.99,49.99,high,low,8,name.com,,,13/08/2026 21:12
 767b45e4-f95e-4d2f-b06a-9c4171c4479b,fissile.luxury,available,49.99,49.99,medium,low,7,name.com,,,18/08/2026 05:34
@@ -870,6 +883,7 @@ d154f5c5-f65d-4fbd-a4d8-88b6217aaa95,resistance.luxury,available,,,high,low,10,,
 36cc7a3a-70ad-4db1-9a29-b02a919f1b60,viva.luxury,premium,2600,2600,high,medium,4,namecheap,,,04/09/2026 17:24
 99c9ef64-b426-4f24-b961-cb5237b2c5b5,meteoric.luxury,available,49.99,49.99,high,low,8,name.com,,,24/08/2026 21:53
 54398343-1d45-46a3-b897-f62f008b7364,connective.luxury,available,49.99,49.99,high,low,10,name.com,,,12/08/2026 22:16
+78a89d1d-81ff-43c7-8e89-1baf1d307502,cares.luxury,available,,,medium,low,5,,,,27/09/2026 02:10
 d0d1b9ba-3e46-4bd3-ad25-6e462398d54b,accidental.luxury,available,49.99,49.99,high,low,10,name.com,,,
 3b765126-30a0-4266-810f-efd7538cca3e,stannic.luxury,available,,,low,low,7,,,,10/09/2026 18:41
 a9195a7d-fac0-44d9-b1d2-0794f571b5d4,papillary.luxury,available,,,medium,low,9,,,,05/09/2026 01:21
@@ -914,6 +928,7 @@ cbe38e8d-7fb1-4d21-a443-843dbf9ba1db,conscience.luxury,available,49.99,,high,low
 838493d8-c249-4e56-a286-dd0c31a47eaa,sycophant.luxury,available,,,medium,low,9,,,,20/09/2026 15:34
 55c5dce2-af31-434e-a199-da1b0f722156,receptions.luxury,available,49.99,,medium,low,10,name.com,,,20/09/2026 06:10
 c058b07a-6900-4999-ab31-b5aac1cbb5a7,bethel.luxury,available,,,medium,low,6,,,,23/09/2026 11:13
+6e15c89e-5628-4e14-8935-a2e21bde4718,warrior.luxury,available,,,high,low,7,,,,27/09/2026 05:52
 8fab4ed7-c722-4ca7-a1ff-e3c199cf3665,wire.luxury,available,49.99,,high,low,4,name.com,,,
 25d733fe-5860-40ac-baf3-c80042e1c1a6,extensible.luxury,available,49.99,49.99,medium,low,10,name.com,,,17/08/2026 19:03
 92756589-bc46-45da-9062-e9fbb8f8a705,seekers.luxury,available,49.99,49.99,medium,low,7,name.com,,,21/09/2026 07:32
@@ -930,7 +945,7 @@ ee014bc7-2898-41e5-b76d-3da9334b94c4,breathless.luxury,available,49.99,49.99,hig
 bb630750-fae9-42bb-a78e-f003f500e25d,franklin.luxury,available,,,high,low,8,,,,23/09/2026 08:17
 d2457184-922b-4e6e-b28a-ad635988476e,underbred.luxury,available,49.99,49.99,high,medium,9,name.com,,,10/08/2026 22:18
 d141f423-18f3-4c79-ab27-1de4a1182c93,endurance.luxury,available,49.99,,high,low,9,name.com,,,
-92dcab46-d55f-46c5-b2c0-c4b6df1ca28e,violated.luxury,available,49.99,,medium,low,8,name.com,,,
+92dcab46-d55f-46c5-b2c0-c4b6df1ca28e,violated.luxury,available,49.99,,medium,low,8,name.com,,,27/09/2026 07:04
 321a3916-4267-4dc5-9226-74da93249e25,leading.luxury,available,49.99,49.99,high,low,7,name.com,,,21/09/2026 23:23
 91b1175e-49ee-4fd8-ba2b-d7bb2e26bbe6,anarchism.luxury,available,,,medium,low,9,,,,19/09/2026 02:24
 fa576294-1305-42cb-9f0e-1acec2da6ed5,unkindly.luxury,available,,,medium,low,8,,,,12/09/2026 14:15
@@ -942,6 +957,7 @@ e2e6063a-f540-4ba1-8727-42d629287009,contempt.luxury,available,49.99,,medium,low
 2d50401f-f270-4b30-9cd9-14319136393a,overstatement.luxury,available,49.99,,medium,low,13,name.com,,,
 44f3b9b1-46dd-41e0-a65d-44233dc26a3d,cytolytic.luxury,available,49.99,49.99,medium,low,9,name.com,,,13/08/2026 14:42
 763269e9-1442-4322-9285-5664ca01adb6,secretary.luxury,available,,,high,low,9,,,,25/09/2026 22:37
+8d26c33d-8d35-49e6-9292-afda5dacac46,sonora.luxury,available,49.99,49.99,high,low,6,name.com,,,27/09/2026 04:12
 f3dfdeb8-2d60-4243-8d10-1496d32db9de,painfully.luxury,available,,,medium,low,9,,,,14/09/2026 13:22
 2416ecea-cb67-45f1-9c7b-666443b2a203,defraud.luxury,available,,,medium,low,7,,,,14/09/2026 08:02
 9974f575-3c43-4940-a5a3-9b0225da4568,josiah.luxury,available,49.99,49.99,medium,low,6,name.com,,,27/09/2026 01:34
@@ -962,6 +978,7 @@ ee8b1385-731a-4ba9-87ff-594d273851d4,incurable.luxury,available,49.99,49.99,high
 2ac0eed8-2e47-4307-bedb-d1df1c7c3c15,dslr.luxury,available,49.99,,high,low,4,name.com,,,
 993daecc-e568-40e5-91de-8fef34b91da7,sagging.luxury,available,49.99,49.99,medium,low,7,name.com,,,14/08/2026 19:45
 d423b0ea-0c04-4de3-a465-2ba8359887cf,bauble.luxury,available,,,high,low,6,,,,22/09/2026 16:31
+fa9fd57b-6d37-4333-b15b-7fb13ba2d321,jaw.luxury,available,,,high,low,3,,,,27/09/2026 03:31
 60641b39-dbdb-43e4-a08c-82fc6d5e349c,hangdog.luxury,available,49.99,49.99,medium,low,7,name.com,,,20/08/2026 23:41
 6f59ef48-a672-4494-b802-028273f76683,receding.luxury,available,,,medium,low,8,,,,09/09/2026 11:16
 bce6445f-9739-433c-b8bf-06104f3c911f,insistent.luxury,available,49.99,49.99,medium,low,9,name.com,,,13/08/2026 09:33
@@ -982,20 +999,3 @@ ada83991-9156-4e9d-8f9b-f93670af8971,upwards.luxury,available,49.99,,high,low,7,
 459b634f-f559-4082-a706-f76d84d014b5,seems.luxury,available,49.99,,medium,low,5,name.com,,,18/09/2026 01:08
 f2954eaa-36f8-4265-ae08-1837c0c99079,lao.luxury,available,49.99,49.99,high,low,3,name.com,,,22/08/2026 19:34
 619166b4-b86f-4ce1-a519-d3353485a483,acoustic.luxury,available,49.99,49.99,high,low,8,name.com,,,
-b7cb2953-1fdb-4aec-a0fe-63546f086bbe,xxii.luxury,available,49.99,49.99,high,low,4,name.com,,,21/09/2026 12:40
-29a9300a-afe2-4ab2-a01b-0c445b3daade,location.luxury,available,49.99,,high,low,8,name.com,,,
-d02ef7e5-866d-4258-a3dc-8f22c3a939c8,elsewhere.luxury,available,49.99,,high,low,9,name.com,,,
-4d3b58a0-2913-4beb-8b52-2e166ca0979e,blossoming.luxury,available,49.99,49.99,high,low,10,name.com,,,18/08/2026 09:04
-4b799be1-be77-45f0-8709-e51d18a21075,arsenic.luxury,available,,,medium,low,7,,,,13/09/2026 21:07
-b59b0634-1e69-4486-8038-c32948736f0e,acerbity.luxury,available,,,medium,low,8,,,,16/09/2026 23:41
-fd9e5014-afa7-496a-b0b9-8eeed35cddde,stemless.luxury,available,49.99,49.99,medium,low,8,name.com,,,
-30d165a5-cfdb-4a81-87ce-0f09694687bb,bruising.luxury,available,49.99,49.99,medium,low,8,name.com,,,11/08/2026 06:34
-d3783126-8678-4af6-abd4-32e288f93ee6,anonym.luxury,available,,,medium,low,6,,,,19/09/2026 11:37
-007d8ab7-8837-4beb-9961-b10a0c81300f,lunches.luxury,available,49.99,,medium,low,7,name.com,,,20/09/2026 07:45
-aea46105-5069-4c4a-b620-f0a27ce13a5d,nights.luxury,available,49.99,,high,low,6,name.com,,,17/09/2026 22:10
-75a0810c-cd59-4074-92bf-5c05bffe2141,kanaf.luxury,available,,,medium,low,5,,,,23/09/2026 16:56
-4713a140-383f-4d5c-a01b-e7226c2d7586,actuary.luxury,available,,,high,low,7,,,,17/09/2026 05:21
-1fedcbbd-f4a5-48dd-bb1e-a61eb88cb12e,overboard.luxury,available,,,high,low,9,,,,15/09/2026 18:25
-5651af68-167b-4c01-8593-e09c2d362160,telly.luxury,available,,,high,low,5,,,,24/09/2026 06:44
-f3087f66-f3a6-4e01-9030-83d3cea764fb,agnomen.luxury,available,,,medium,low,7,,,,17/09/2026 18:44
-5f72fdfb-22d6-4e8e-8899-2d7ff1bbc177,blinding.luxury,available,49.99,49.99,high,low,8,name.com,,,10/08/2026 13:42
