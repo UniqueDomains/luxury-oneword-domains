@@ -1,10 +1,10 @@
-# Available .LUXURY One-Word Domains (33,448)
+# Available .LUXURY One-Word Domains (35,766)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C448%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C766%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .luxury one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,448 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,766 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,448 domains · **Median ask:** $82.38 · **High-demand under $2,500:** 122
+**Public extract:** 1,000 rows · **Live catalog:** 35,766 domains · **Median ask:** $78.17 · **High-demand under $2,500:** 134
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/luxury`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ain.luxury    | available | $49.99    | $49.99        | high           | low    | 3      | name.com        |
-| pet.luxury    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| eat.luxury    | premium   | $2,070.20 | $2,070.20     | high           | low    | 3      | spaceship       |
-| ams.luxury    | available | $26       | $26           | high           | low    | 3      | spaceship       |
-| cook.luxury   | premium   | $520      | $520          | high           | low    | 4      | namecheap       |
-| ben.luxury    | available | $26       | $26           | high           | medium | 3      | spaceship       |
-| farm.luxury   | premium   | $414.20   | $414.20       | high           | low    | 4      | spaceship       |
-| bom.luxury    | available | $26.97    | $26.97        | high           | medium | 3      | dynadot         |
-| teen.luxury   | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap       |
-| but.luxury    | available | $49.99    | —             | high           | low    | 3      | name.com        |
-| well.luxury   | premium   | $520      | $520          | high           | low    | 4      | namecheap       |
-| che.luxury    | available | $26       | $26           | high           | low    | 3      | spaceship       |
-| green.luxury  | premium   | $440      | $440          | high           | medium | 5      | dynadot         |
-| cme.luxury    | available | $26       | $26           | high           | low    | 3      | spaceship       |
-| omega.luxury  | premium   | $520      | $520          | high           | high   | 5      | namecheap       |
-| dye.luxury    | available | $26.97    | $26.97        | high           | low    | 3      | dynadot         |
-| vogue.luxury  | premium   | $2,070.20 | $2,070.20     | high           | low    | 5      | spaceship       |
-| ecm.luxury    | available | $26       | $26           | high           | low    | 3      | spaceship       |
-| abroad.luxury | premium   | $520      | $520          | high           | low    | 6      | namecheap       |
-| eec.luxury    | available | $26       | $26           | high           | low    | 3      | spaceship       |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ain.luxury     | available | $49.99    | $49.99        | high           | low    | 3      | name.com        |
+| pet.luxury     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| farm.luxury    | premium   | $414.20   | $414.20       | high           | low    | 4      | spaceship       |
+| ams.luxury     | available | $26       | $26           | high           | low    | 3      | spaceship       |
+| teen.luxury    | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap       |
+| bom.luxury     | available | $26.97    | $26.97        | high           | medium | 3      | dynadot         |
+| well.luxury    | premium   | $520      | $520          | high           | low    | 4      | namecheap       |
+| but.luxury     | available | $49.99    | —             | high           | low    | 3      | name.com        |
+| green.luxury   | premium   | $440      | $440          | high           | medium | 5      | dynadot         |
+| cme.luxury     | available | $26       | $26           | high           | low    | 3      | spaceship       |
+| omega.luxury   | premium   | $520      | $520          | high           | high   | 5      | namecheap       |
+| dye.luxury     | available | $26.97    | $26.97        | high           | low    | 3      | dynadot         |
+| vogue.luxury   | premium   | $2,070.20 | $2,070.20     | high           | low    | 5      | spaceship       |
+| ecm.luxury     | available | $26       | $26           | high           | low    | 3      | spaceship       |
+| abroad.luxury  | premium   | $520      | $520          | high           | low    | 6      | namecheap       |
+| eec.luxury     | available | $26       | $26           | high           | low    | 3      | spaceship       |
+| cricket.luxury | premium   | $414.20   | $414.20       | high           | low    | 7      | spaceship       |
+| esl.luxury     | available | $26       | $26           | high           | low    | 3      | spaceship       |
+| montana.luxury | premium   | $437.19   | $437.19       | high           | low    | 7      | porkbun         |
+| fax.luxury     | available | $26.97    | $26.97        | high           | low    | 3      | dynadot         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,448 live domains                        |
+| 1,000-row public sample | 35,766 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 122 high-demand names under $2,500         |
+| Basic exported fields   | 134 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LUXURY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
